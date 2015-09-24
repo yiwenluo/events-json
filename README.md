@@ -1,5 +1,7 @@
 #Event Dashboard
 
+Link: http://yiwenluo.github.io/events-json
+
 This is a project that displays a list of events from a given URL on a web page. 
 
 By default, the page will display a list of events loaded from https://gist.githubusercontent.com/yiwenluo/9d60c89c8e019151f2a3/raw/yiwenluo-events.json
